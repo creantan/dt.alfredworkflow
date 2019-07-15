@@ -1,5 +1,4 @@
-# dt
-## fight with stickers
+# dt 斗图
 
 Enter the keyword, then select the image and press the Enter key. Finally press CMD+V where you want to paste.
 
